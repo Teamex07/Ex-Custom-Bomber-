@@ -57,5 +57,5 @@ For support, Talegram <a href="https://t.me/Teamex07">Talegram</a> join our chan
 
 
 ## Download 
-<a href="https://raw.githubusercontent.com/Teamex07/Ex-Bomber-Pro/main/ExBomber.apk">DOWNLOAD NOW</a>
+<a href="https://raw.githubusercontent.com/Teamex07/Ex-Custom-Bomber-/main/Ex_bomber_base.apk">DOWNLOAD NOW</a>
 
