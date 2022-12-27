@@ -2,8 +2,8 @@
 An Fast Bangladeshi Custom Bomber
 
 ## Demo
-![Logo](IMG_20220803_064631_735.jpg)
-![Logo](IMG_20220803_064637_349.jpg)
+![Logo](Screenshot_2022-12-27-11-35-02-51_3157fe9351988d32d5eb3d4cc2761496.jpg)
+
 
 
 
@@ -21,10 +21,10 @@ An Fast Bangladeshi Custom Bomber
 ## Features
 
 
-- [01] SMS BOMBER 10 API ✅
-- [02] EMAIL BOMBER 2 API ✅
-- [03] SMS BOMBER AMOUNT 200 ✅
-- [04] EMAIL BOMBER AMOUNT 50 ✅
+- [01] SMS CUSTOM BOMBER 1 API ✅
+- [02]
+- [03] SMS BOMBER  UNLIMITED ✅
+- [04] 
 - [06] EMAIL LOG IN TURNED OF
 - [07] KEY APPROVAL TURNED OFF ✅
 - [08]ALL ACTIVITY UNLOCKED ✅
